@@ -1,0 +1,495 @@
+{
+  "ImportedAt": "2026-10-08T16:40:06.4156650+07:00",
+  "SkillCount": 122,
+  "VerifiedFiles": 944,
+  "Skills": [
+    {
+      "Folder": "find-skills",
+      "Source": "C:\\Users\\nahsu\\.agents\\skills\\find-skills"
+    },
+    {
+      "Folder": "api-and-interface-design",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\api-and-interface-design"
+    },
+    {
+      "Folder": "browser-testing-with-devtools",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\browser-testing-with-devtools"
+    },
+    {
+      "Folder": "ci-cd-and-automation",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\ci-cd-and-automation"
+    },
+    {
+      "Folder": "code-review-and-quality",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\code-review-and-quality"
+    },
+    {
+      "Folder": "code-simplification",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\code-simplification"
+    },
+    {
+      "Folder": "constraint-driven-development",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\constraint-driven-development"
+    },
+    {
+      "Folder": "context-engineering",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\context-engineering"
+    },
+    {
+      "Folder": "debugging-and-error-recovery",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\debugging-and-error-recovery"
+    },
+    {
+      "Folder": "deprecation-and-migration",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\deprecation-and-migration"
+    },
+    {
+      "Folder": "documentation-and-adrs",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\documentation-and-adrs"
+    },
+    {
+      "Folder": "doubt-driven-development",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\doubt-driven-development"
+    },
+    {
+      "Folder": "frontend-ui-engineering",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\frontend-ui-engineering"
+    },
+    {
+      "Folder": "git-workflow-and-versioning",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\git-workflow-and-versioning"
+    },
+    {
+      "Folder": "idea-refine",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\idea-refine"
+    },
+    {
+      "Folder": "incremental-implementation",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\incremental-implementation"
+    },
+    {
+      "Folder": "interview-me",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\interview-me"
+    },
+    {
+      "Folder": "observability-and-instrumentation",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\observability-and-instrumentation"
+    },
+    {
+      "Folder": "performance-optimization",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\performance-optimization"
+    },
+    {
+      "Folder": "planning-and-task-breakdown",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\planning-and-task-breakdown"
+    },
+    {
+      "Folder": "security-and-hardening",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\security-and-hardening"
+    },
+    {
+      "Folder": "shipping-and-launch",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\shipping-and-launch"
+    },
+    {
+      "Folder": "source-driven-development",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\source-driven-development"
+    },
+    {
+      "Folder": "spec-driven-development",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\spec-driven-development"
+    },
+    {
+      "Folder": "test-driven-development",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\test-driven-development"
+    },
+    {
+      "Folder": "using-agent-skills",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\agent-skills\\agent-skills\\0.6.12\\skills\\using-agent-skills"
+    },
+    {
+      "Folder": "consolidate-memory",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\consolidate-memory"
+    },
+    {
+      "Folder": "docs",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\docs"
+    },
+    {
+      "Folder": "docx",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\docx"
+    },
+    {
+      "Folder": "explain-usage",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\explain-usage"
+    },
+    {
+      "Folder": "giai-toan-calculus-1",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\giai-toan-calculus-1"
+    },
+    {
+      "Folder": "google-workspace",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\google-workspace"
+    },
+    {
+      "Folder": "import-memory",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\import-memory"
+    },
+    {
+      "Folder": "morning",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\morning"
+    },
+    {
+      "Folder": "pdf",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\pdf"
+    },
+    {
+      "Folder": "pptx",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\pptx"
+    },
+    {
+      "Folder": "schedule",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\schedule"
+    },
+    {
+      "Folder": "setup-claude",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\setup-claude"
+    },
+    {
+      "Folder": "setup-cowork",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\setup-cowork"
+    },
+    {
+      "Folder": "skill-creator",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\skill-creator"
+    },
+    {
+      "Folder": "xlsx",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\claude-cowork\\anthropic-skills\\1.0.0\\skills\\xlsx"
+    },
+    {
+      "Folder": "computer-use",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-bundled\\computer-use\\26.1002.52244\\skills\\computer-use"
+    },
+    {
+      "Folder": "visualize",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-bundled\\visualize\\1.0.47\\skills\\visualize"
+    },
+    {
+      "Folder": "artifact-template-analytics-dashboard",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-analytics-dashboard"
+    },
+    {
+      "Folder": "artifact-template-business-review",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-business-review"
+    },
+    {
+      "Folder": "artifact-template-design-report",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-design-report"
+    },
+    {
+      "Folder": "artifact-template-experiment-analysis",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-experiment-analysis"
+    },
+    {
+      "Folder": "artifact-template-financial-budget",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-financial-budget"
+    },
+    {
+      "Folder": "artifact-template-investment-committee-memo",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-investment-committee-memo"
+    },
+    {
+      "Folder": "artifact-template-legal-memorandum",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-legal-memorandum"
+    },
+    {
+      "Folder": "artifact-template-market-trends-report",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-market-trends-report"
+    },
+    {
+      "Folder": "artifact-template-minimal-letterhead",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-minimal-letterhead"
+    },
+    {
+      "Folder": "artifact-template-operating-calendar",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-operating-calendar"
+    },
+    {
+      "Folder": "artifact-template-operating-review",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-operating-review"
+    },
+    {
+      "Folder": "artifact-template-project-kickoff",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-project-kickoff"
+    },
+    {
+      "Folder": "artifact-template-project-tracker",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-project-tracker"
+    },
+    {
+      "Folder": "artifact-template-sales-pipeline",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-sales-pipeline"
+    },
+    {
+      "Folder": "artifact-template-simple-dark-mode",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-simple-dark-mode"
+    },
+    {
+      "Folder": "artifact-template-simple-light-mode",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-simple-light-mode"
+    },
+    {
+      "Folder": "artifact-template-strategy-memorandum",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-strategy-memorandum"
+    },
+    {
+      "Folder": "artifact-template-system-design",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-system-design"
+    },
+    {
+      "Folder": "artifact-template-team-alignment",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-team-alignment"
+    },
+    {
+      "Folder": "artifact-template-three-statement-forecast",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\openai-templates\\0.1.1\\skills\\artifact-template-three-statement-forecast"
+    },
+    {
+      "Folder": "plugin-management",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\plugin-management\\0.1.0\\skills\\plugin-management"
+    },
+    {
+      "Folder": "sites-building",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\sites\\0.1.75\\skills\\sites-building"
+    },
+    {
+      "Folder": "sites-hosting",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\sites\\0.1.75\\skills\\sites-hosting"
+    },
+    {
+      "Folder": "sites-mcp",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\sites\\0.1.75\\skills\\sites-mcp"
+    },
+    {
+      "Folder": "sites-preview-troubleshooting",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\sites\\0.1.75\\skills\\sites-preview-troubleshooting"
+    },
+    {
+      "Folder": "create-pet",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\work-pets\\0.1.6\\skills\\create-pet"
+    },
+    {
+      "Folder": "pets",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\work-pets\\0.1.6\\skills\\pets"
+    },
+    {
+      "Folder": "update-pet",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-curated-remote\\work-pets\\0.1.6\\skills\\update-pet"
+    },
+    {
+      "Folder": "documents",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-primary-runtime\\documents\\26.1007.11041\\skills\\documents"
+    },
+    {
+      "Folder": "pdf--pdf",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-primary-runtime\\pdf\\26.1007.11041\\skills\\pdf"
+    },
+    {
+      "Folder": "presentations",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-primary-runtime\\presentations\\26.1007.11041\\skills\\presentations"
+    },
+    {
+      "Folder": "excel-live-control",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-primary-runtime\\spreadsheets\\26.1007.11041\\skills\\excel-live-control"
+    },
+    {
+      "Folder": "spreadsheets",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-primary-runtime\\spreadsheets\\26.1007.11041\\skills\\spreadsheets"
+    },
+    {
+      "Folder": "template-creator",
+      "Source": "C:\\Users\\nahsu\\.codex\\plugins\\cache\\openai-primary-runtime\\template-creator\\26.1007.11041\\skills\\template-creator"
+    },
+    {
+      "Folder": "imagegen",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\.system\\imagegen"
+    },
+    {
+      "Folder": "openai-docs",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\.system\\openai-docs"
+    },
+    {
+      "Folder": "review-agent",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\.system\\review-agent"
+    },
+    {
+      "Folder": "codex-system--skill-creator",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\.system\\skill-creator"
+    },
+    {
+      "Folder": "skill-installer",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\.system\\skill-installer"
+    },
+    {
+      "Folder": "ask-matt",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\ask-matt"
+    },
+    {
+      "Folder": "audit-the-list",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\audit-the-list"
+    },
+    {
+      "Folder": "code-review",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\code-review"
+    },
+    {
+      "Folder": "codebase-design",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\codebase-design"
+    },
+    {
+      "Folder": "coding-standards",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\coding-standards"
+    },
+    {
+      "Folder": "continuous-learning",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\continuous-learning"
+    },
+    {
+      "Folder": "deep-research",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\deep-research"
+    },
+    {
+      "Folder": "diagnosing-bugs",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\diagnosing-bugs"
+    },
+    {
+      "Folder": "documentation-lookup",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\documentation-lookup"
+    },
+    {
+      "Folder": "domain-modeling",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\domain-modeling"
+    },
+    {
+      "Folder": "frontend-patterns",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\frontend-patterns"
+    },
+    {
+      "Folder": "grill-me",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\grill-me"
+    },
+    {
+      "Folder": "grill-with-docs",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\grill-with-docs"
+    },
+    {
+      "Folder": "grilling",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\grilling"
+    },
+    {
+      "Folder": "handoff",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\handoff"
+    },
+    {
+      "Folder": "impeccable",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\impeccable"
+    },
+    {
+      "Folder": "implement-spec",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\implement-spec"
+    },
+    {
+      "Folder": "implement",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\implement"
+    },
+    {
+      "Folder": "improve-codebase-architecture",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\improve-codebase-architecture"
+    },
+    {
+      "Folder": "mle-workflow",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\mle-workflow"
+    },
+    {
+      "Folder": "nextjs-turbopack",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\nextjs-turbopack"
+    },
+    {
+      "Folder": "postgres-patterns",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\postgres-patterns"
+    },
+    {
+      "Folder": "pr",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\pr"
+    },
+    {
+      "Folder": "prototype",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\prototype"
+    },
+    {
+      "Folder": "requesting-code-review",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\requesting-code-review"
+    },
+    {
+      "Folder": "research",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\research"
+    },
+    {
+      "Folder": "retro",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\retro"
+    },
+    {
+      "Folder": "setup-matt-pocock-skills",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\setup-matt-pocock-skills"
+    },
+    {
+      "Folder": "codex-personal--skill-creator",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\skill-creator"
+    },
+    {
+      "Folder": "taste-skill",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\taste-skill"
+    },
+    {
+      "Folder": "tdd",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\tdd"
+    },
+    {
+      "Folder": "teach",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\teach"
+    },
+    {
+      "Folder": "to-questionnaire",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\to-questionnaire"
+    },
+    {
+      "Folder": "to-spec",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\to-spec"
+    },
+    {
+      "Folder": "to-tickets",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\to-tickets"
+    },
+    {
+      "Folder": "triage",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\triage"
+    },
+    {
+      "Folder": "wait-what",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\wait-what"
+    },
+    {
+      "Folder": "wayfinder",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\wayfinder"
+    },
+    {
+      "Folder": "wizard",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\wizard"
+    },
+    {
+      "Folder": "writing-for-agents",
+      "Source": "C:\\Users\\nahsu\\.codex\\skills\\writing-for-agents"
+    }
+  ]
+}
